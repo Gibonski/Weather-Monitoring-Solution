@@ -7,7 +7,14 @@ namespace WeatherMonitoringStation.Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My Weather Monitoring Station!");
+            WeatherData weatherData = WeatherData.GetInstance();
+            CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
+
+            // Simulate weather changes
+            weatherData.SetMeasurements(25, 65, 30.4f);
+
+            System.Console.WriteLine("Press any key to exit...");
+            System.Console.ReadKey();
         }
     }
 }
