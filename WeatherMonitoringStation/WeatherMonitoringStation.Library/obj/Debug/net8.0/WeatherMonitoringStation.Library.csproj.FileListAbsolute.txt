@@ -1,0 +1,12 @@
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/bin/Debug/net8.0/WeatherMonitoringStation.Library.deps.json
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/bin/Debug/net8.0/WeatherMonitoringStation.Library.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/bin/Debug/net8.0/WeatherMonitoringStation.Library.pdb
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.AssemblyInfoInputs.cache
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.AssemblyInfo.cs
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.csproj.CoreCompileInputs.cache
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.sourcelink.json
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/refint/WeatherMonitoringStation.Library.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/WeatherMonitoringStation.Library.pdb
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Library/obj/Debug/net8.0/ref/WeatherMonitoringStation.Library.dll

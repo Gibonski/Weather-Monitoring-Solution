@@ -7,7 +7,7 @@ namespace WeatherMonitoringStation.Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Weather Monitoring Station!");
+            Console.WriteLine("My Weather Monitoring Station!");
         }
     }
 }
