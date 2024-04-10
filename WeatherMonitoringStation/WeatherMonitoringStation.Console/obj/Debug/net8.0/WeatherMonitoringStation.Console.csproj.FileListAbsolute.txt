@@ -4,3 +4,16 @@
 /workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.AssemblyInfo.cs
 /workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.csproj.CoreCompileInputs.cache
 /workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.sourcelink.json
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Console
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Console.deps.json
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Console.runtimeconfig.json
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Console.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Console.pdb
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Library.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/bin/Debug/net8.0/WeatherMonitoringStation.Library.pdb
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherM.107AAAFA.Up2Date
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/refint/WeatherMonitoringStation.Console.dll
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.pdb
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.genruntimeconfig.cache
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/ref/WeatherMonitoringStation.Console.dll
