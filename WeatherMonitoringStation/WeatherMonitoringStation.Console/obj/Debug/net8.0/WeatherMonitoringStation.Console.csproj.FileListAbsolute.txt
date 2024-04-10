@@ -1,0 +1,6 @@
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.csproj.AssemblyReference.cache
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.AssemblyInfoInputs.cache
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.AssemblyInfo.cs
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.csproj.CoreCompileInputs.cache
+/workspaces/Weather-Monitoring-Solution/WeatherMonitoringStation/WeatherMonitoringStation.Console/obj/Debug/net8.0/WeatherMonitoringStation.Console.sourcelink.json
